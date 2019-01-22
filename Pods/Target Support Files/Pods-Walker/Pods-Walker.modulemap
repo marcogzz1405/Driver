@@ -1,0 +1,6 @@
+module Pods_Walker {
+  umbrella header "Pods-Walker-umbrella.h"
+
+  export *
+  module * { export * }
+}
